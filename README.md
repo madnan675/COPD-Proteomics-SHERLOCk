@@ -135,7 +135,7 @@ which is saved to `data/input/`) include:
 
 ## Authors
 
-[Muhammad Adnan] — [GRIAC Bioinformatics]
+Muhammad Adnan, GRIAC Bioinformatics
 
 ## Citation
 
