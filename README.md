@@ -3,7 +3,7 @@
 Analysis of clinical and Olink proteomics data from COPD and Control
 cohorts, relating blood eosinophil status (Eosinophilic vs
 Non-Eosinophilic, threshold 0.3 x10⁹/L) to baseline clinical
-characteristics and circulating protein expression. The pipeline builds
+characteristics and proteomics from the bronchial epithelial lining fluid. The pipeline builds
 baseline characteristics tables, runs differential protein expression,
 visualizes and enriches the results, and identifies hub proteins from a
 protein-protein interaction network.
